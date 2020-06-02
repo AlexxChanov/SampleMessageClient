@@ -9,8 +9,6 @@ The app allow you to communicate with your friends.
 
 This application was created by the rule of one activity.
 
-
-
 The following technologies are used:
 
 
