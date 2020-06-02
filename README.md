@@ -1,9 +1,9 @@
 # SampleMessageClient
 The app allow you to communicate with your friends.
 
-![alt text](Messeger.png "Основной экран")
+![alt text](Messeger.jpg "Основной экран")
 
-![alt text](MessegerText.png "Основной экран")
+![alt text](MessegerText.jpg "Основной экран")
 
 
 
