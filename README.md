@@ -5,10 +5,6 @@ The app allow you to communicate with your friends.
 
 ![alt text](MessegerText.jpg "Основной экран")
 
-
-
-This application was created by the rule of one activity.
-
 The following technologies are used:
 
 
@@ -22,4 +18,7 @@ The following technologies are used:
 
 
 -multithreading
+
+This application was created by the rule of one activity.
+
 
