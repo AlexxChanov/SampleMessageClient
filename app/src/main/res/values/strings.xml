@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sample Messenger</string>
+    <string name="username_hint">Username</string>
+    <string name="firstname_hint">First name</string>
+    <string name="lastname_hint">Last name</string>
+    <string name="register_button_text">Start messaging</string>
+
+    <string name="name_template">%s (%s %s)</string>
+    <string name="message_hint">Message...</string>
+</resources>
